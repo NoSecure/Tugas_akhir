@@ -15,3 +15,7 @@ Login Sebagai Member :
 - File page admin ada di folder admin
 - File page user ada di folder user
 - File lainya ada di folder page dan kategori
+
+
+
+Developer by risky_r51@yahoo.co.id
